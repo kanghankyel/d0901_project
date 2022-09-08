@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Zulu 8.64.0.19 [1.8.0_345]"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/ganghangyeol/Desktop/original_core/mysql-connector-java-8.0.30/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
